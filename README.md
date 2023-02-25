@@ -4,12 +4,12 @@ Welcome to the Social Media App! This application is designed to allow users to 
 
 ## Installation
 To install the Social Media App, please follow these steps:
-
-## Clone the repository to your local machine.
+Clone the repository to your local machine.
 Navigate to the root directory of the project in your terminal.
 Run the command npm install to install the necessary dependencies.
 Run the command npm start to start the application.
-Usage
+
+## Usage
 Once the application is running, you can access it in your web browser at http://localhost:3000.
 
 To use the Social Media App, you will need to create an account. You can sign up by providing your email address, username, and password.
